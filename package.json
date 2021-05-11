@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "watch": "tsc --watch",
-    "server": "node dist/index"
+    "server": "node dist/index",
+    "run": "nohup node dist/index"
   },
   "author": "",
   "license": "ISC",
