@@ -2,9 +2,9 @@ import * as TelegramBot from 'node-telegram-bot-api';
 import { database, User } from '../database/database';
 import {message_start, message_incorrect_key, message_incorrect_name_book, message_incorrect_id, AddBookMessage, TopMessage} from '../messages/messages_servis';
 
-const addKey = '123456789';
-const takeKey = '123456789';
-const returnKey = '123456789';
+const addKey = '145WH342';
+const takeKey = 'LA784MA';
+const returnKey = 'LIU7602K';
 const warning = '259617795';
 
 export default class Telegram {
